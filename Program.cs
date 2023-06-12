@@ -3,9 +3,9 @@
 //N = 5 -> "5, 4, 3, 2, 1"
 //N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 /*
-void ShowNumbers (int numbers)
+void ShowNumbers (int numbers) //numbers - это число N
 {
-    if(numbers > 1) ShowNumbers(numbers - 1);
+    if(numbers > 1) ShowNumbers(numbers - 1); //8 > 1, 8 - 1
     Console.Write(numbers + " ");
 }
 ShowNumbers(8);
