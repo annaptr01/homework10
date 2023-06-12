@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VSC_015HW/1.0.0": {
+        "runtime": {
+          "VSC_015HW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSC_015HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
